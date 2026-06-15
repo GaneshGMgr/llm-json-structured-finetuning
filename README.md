@@ -3,7 +3,7 @@
 > Fine-tuned Qwen 2.5 7B to extract structured JSON from unstructured text.  
 > Improved structured output consistency from baseline model failures (hallucination, invalid JSON, and inconsistent keys) to 94% JSON-valid outputs using QLoRA + DPO fine-tuning.
 
-👉 **[Live Demo](https://huggingface.co)** | 📦 **[Model on Hub](https://huggingface.co)**
+👉 **[Live Demo](https://huggingface.co/spaces/shield12/qwen-json-extractor)** | 📦 **[Model on Hub](https://huggingface.co/shield12/qwen-json-extractor)**
 
 ---
 
