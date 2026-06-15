@@ -1,0 +1,43 @@
+# ENVIRONMENT
+.venv/
+venv/
+env/
+.env
+
+# PYTHON CACHE
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# DATA (ONLY IF GENERATED)
+data/raw/
+data/doc/
+data/processed/
+
+# data/train.jsonl
+# data/val.jsonl
+# data/test.jsonl
+
+
+# MODELS (IMPORTANT)
+models/
+outputs/
+output/
+checkpoints/
+
+
+# LOGS
+logs/
+*.log
+
+
+# NOTEBOOK CHECKPOINTS
+.ipynb_checkpoints/
+
+
+# SYSTEM / IDE
+.DS_Store
+.vscode/
+.idea/

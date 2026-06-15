@@ -1,0 +1,26 @@
+{
+  "base": {
+    "json_validity_pct": 100.0,
+    "exact_match_pct": 9.0,
+    "field_recall_pct": 51.8,
+    "field_precision_pct": 58.0,
+    "refusal_correct_pct": 50.0,
+    "total_evaluated": 100
+  },
+  "sft": {
+    "json_validity_pct": 100.0,
+    "exact_match_pct": 100.0,
+    "field_recall_pct": 98.0,
+    "field_precision_pct": 100.0,
+    "refusal_correct_pct": 100.0,
+    "total_evaluated": 100
+  },
+  "dpo": {
+    "json_validity_pct": 100.0,
+    "exact_match_pct": 90.0,
+    "field_recall_pct": 95.6,
+    "field_precision_pct": 97.4,
+    "refusal_correct_pct": 100.0,
+    "total_evaluated": 100
+  }
+}

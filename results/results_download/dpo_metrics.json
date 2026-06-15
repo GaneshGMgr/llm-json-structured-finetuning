@@ -1,0 +1,8 @@
+{
+  "json_validity_pct": 100.0,
+  "exact_match_pct": 90.0,
+  "field_recall_pct": 95.6,
+  "field_precision_pct": 97.4,
+  "refusal_correct_pct": 100.0,
+  "total_evaluated": 100
+}
